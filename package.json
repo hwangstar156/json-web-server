@@ -1,0 +1,24 @@
+{
+  "name": "json-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwangstar156/json-web-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwangstar156/json-web-server/issues"
+  },
+  "homepage": "https://github.com/hwangstar156/json-web-server#readme"
+}
