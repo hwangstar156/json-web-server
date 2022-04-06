@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "hwangstar123@gmail.com",
+      "password": "$2a$10$uCI95IR0Z/gR3IXMfgNT4OV3QWHE6wWVuJ8Ut59SEX3CbyeVN412i",
+      "name": "스밍",
+      "id": 1
+    }
+  ]
 }
